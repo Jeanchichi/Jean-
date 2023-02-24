@@ -3,7 +3,7 @@
 
 ### I'm Jean-Charles Aka Jeceey
 - 🧏🏾‍♂️ I'm who I am 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m working with VS Code!
 - 🌱 I’m currently learning everything 🤣
 
 ### Connect with me:
