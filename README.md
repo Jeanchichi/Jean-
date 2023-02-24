@@ -1,4 +1,4 @@
-#### Hi there, I'm Jean-Charles Aka Jeanchichi 👋
+#### Hi there, I'm Jean-Charles Aka Jeceey 👋
 
 
 ## I'm a Developer!
