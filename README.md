@@ -1,11 +1,10 @@
-#### Hi there, I'm Jean-Charles Aka Jeceey 👋
+## Hello there 👋
 
 
-## I'm a Developer!
+### I'm Jean-Charles Aka Jeceey
+- 🧏🏾‍♂️ I'm who I am 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
@@ -37,7 +36,7 @@
 ---
 
 
-<img align="left" alt="Jeanchichi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jeanchichi&show_icons=true&hide_border=true" />
+<img align="left" alt="Jeanchichi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jeanchichi&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/thejeceey
