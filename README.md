@@ -34,9 +34,8 @@
 ---
 
 
-<img align="left" alt="Jeanchichi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jeanchichi&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt="Jeceey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeceey&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://jeanchichi.github.io/
 [twitter]: https://twitter.com/thejeceey
-[instagram]: https://www.instagram.com/thejeceey/
 [linkedin]: https://www.linkedin.com/in/jean-charles-ekoue-kouvahey/
