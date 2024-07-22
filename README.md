@@ -1,4 +1,4 @@
-### Hello there, I'm Jean-Charles 👋
+### Hello there 👋
 
 My name is Jean-Charles Ekoue-Kouvahey, I'm a bioengineering student at the *Catholic University of Louvain*.
 - 🧪 Science enthusiast
