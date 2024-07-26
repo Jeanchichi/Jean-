@@ -5,6 +5,8 @@ My name is Jean-Charles Ekoue-Kouvahey, I'm a bioengineering student at the *Cat
 - 😴 Professional procrastinator
 - 🌱 I’m currently learning everything 
 
+#### 🌱 My latest projects
+
 #### How to reach me?
 
 [<img align="left" alt="Thejeceey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
